@@ -36,7 +36,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
               <Calculator className="h-6 w-6 text-white" />
             </div>
             <span className="text-xl md:text-2xl font-bold text-slate-800">
-              PrecisionCPA
+              HRJ Consulting
             </span>
           </button>
 
