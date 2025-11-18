@@ -49,15 +49,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-emerald-400 flex-shrink-0 mt-0.5" />
-                <span>123 Financial District, Suite 400, New York, NY 10004</span>
+                <span>14b Connaught Mews, Ilford IG1 1RN</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-emerald-400 flex-shrink-0" />
-                <span>(555) 123-4567</span>
+                <span>(+44) 208 4784344</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-emerald-400 flex-shrink-0" />
-                <span>info@precisioncpa.com</span>
+                <span>Admins@hrjconsulting.eu</span>
               </li>
             </ul>
           </div>
