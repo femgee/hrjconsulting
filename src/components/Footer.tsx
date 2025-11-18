@@ -65,7 +65,7 @@ export default function Footer() {
 
         <div className="border-t border-slate-700 pt-8 text-center">
           <p className="text-slate-400">
-            &copy; {new Date().getFullYear()} PrecisionCPA. All rights reserved.
+            &copy; {new Date().getFullYear()} HRJ Consulting. All rights reserved.
           </p>
         </div>
       </div>
