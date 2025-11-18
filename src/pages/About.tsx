@@ -7,10 +7,10 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-              About PrecisionCPA
+              About HRJ Consulting
             </h1>
             <p className="text-xl md:text-2xl text-slate-300 leading-relaxed">
-              Your trusted partner in financial excellence since 2004.
+              Your trusted partner in financial excellence since 2003.
             </p>
           </div>
         </div>
@@ -25,18 +25,19 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-lg text-slate-600 leading-relaxed">
                 <p>
-                  Founded in 2004, PrecisionCPA has grown from a small local
+                  Founded in 2003, HRJ Consulting has grown from a small local
                   practice to a trusted accounting firm serving businesses and
                   individuals across the nation. Our journey began with a simple
                   mission: to provide honest, transparent, and expert financial
                   guidance.
                 </p>
                 <p>
-                  Over the past two decades, we've helped hundreds of clients
-                  navigate complex financial landscapes, optimize their tax
-                  strategies, and achieve their business goals. Our success is
-                  built on strong relationships, technical expertise, and an
-                  unwavering commitment to our clients.
+                  For over 20 years, we’ve guided hundreds of clients 
+                  through complex financial challenges, 
+                  optimized their tax strategies, and helped them achieve
+                  their business objectives. 
+                  Our success stems from strong relationships, 
+                  deep technical expertise, and an unwavering commitment to client satisfaction.
                 </p>
                 <p>
                   Today, we continue to evolve with the changing financial world,
