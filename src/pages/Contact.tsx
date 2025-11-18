@@ -38,9 +38,9 @@ export default function Contact() {
                       Office Address
                     </h3>
                     <p className="text-slate-600 leading-relaxed">
-                      123 Financial District<br />
-                      Suite 400<br />
-                      New York, NY 10004
+                      14b Connaught Mews<br />
+                      Ilford<br />
+                      IG1 1RN
                     </p>
                   </div>
                 </div>
@@ -54,9 +54,7 @@ export default function Contact() {
                       Phone
                     </h3>
                     <p className="text-slate-600">
-                      Main: (555) 123-4567<br />
-                      Toll Free: (800) 123-4567<br />
-                      Fax: (555) 123-4568
+                      Main: (+44) 208 478-4344<br />                     
                     </p>
                   </div>
                 </div>
@@ -70,9 +68,7 @@ export default function Contact() {
                       Email
                     </h3>
                     <p className="text-slate-600">
-                      General: info@precisioncpa.com<br />
-                      New Clients: newclient@precisioncpa.com<br />
-                      Support: support@precisioncpa.com
+                      General: Admins@hrjconsulting.eu<br />                    
                     </p>
                   </div>
                 </div>
@@ -133,8 +129,8 @@ export default function Contact() {
                     Preferred Contact Method
                   </h3>
                   <p className="text-slate-600 mb-4 leading-relaxed">
-                    Call us directly at <strong>(555) 123-4567</strong> or email{' '}
-                    <strong>info@precisioncpa.com</strong> with your questions.
+                    Call us directly at <strong>(+44) 208 478-4344</strong> or email{' '}
+                    <strong>Admin@hrjconsulting.eu</strong> with your questions.
                     We typically respond within one business day.
                   </p>
                 </div>
@@ -145,8 +141,8 @@ export default function Contact() {
                   </h3>
                   <p className="text-emerald-50 leading-relaxed">
                     Facing an urgent tax matter? Call our priority line at{' '}
-                    <strong className="text-white">(555) 123-9999</strong> for
-                    immediate assistance with IRS notices, audits, or deadlines.
+                    <strong className="text-white">(+44) 208 4784344</strong> for
+                    immediate assistance with HRMC notices, audits, or deadlines.
                   </p>
                 </div>
               </div>
@@ -168,7 +164,7 @@ export default function Contact() {
 
           <div className="rounded-2xl overflow-hidden h-96 shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.952283109327!2d-74.01263668459395!3d40.70575797933182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1654b90c0d%3A0x8e9b8e31c5e5c5e5!2sFinancial%20District%2C%20New%20York%2C%20NY!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.486950236102!2d0.08259097533768707!3d51.55930610691177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a687a9f24fe5%3A0xbe390c4b2d47de2f!2sThe%20Manse%2C%2014b%20Connaught%20Rd%2C%20Ilford%20IG1%201RN!5e0!3m2!1sen!2suk!4v1763478829131!5m2!1sen!2suk"
               width="100%"
               height="100%"
               style={{ border: 0 }}
