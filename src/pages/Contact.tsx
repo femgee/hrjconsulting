@@ -129,7 +129,7 @@ export default function Contact() {
                     Preferred Contact Method
                   </h3>
                   <p className="text-slate-600 mb-4 leading-relaxed">
-                    Call us directly at <strong>(+44) 208 478-4344</strong> or email{' '}
+                    Call us directly at <strong>(+44) 208 4784344</strong> or email{' '}
                     <strong>Admin@hrjconsulting.eu</strong> with your questions.
                     We typically respond within one business day.
                   </p>
