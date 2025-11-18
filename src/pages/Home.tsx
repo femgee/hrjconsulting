@@ -74,7 +74,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl font-bold text-slate-800 mb-4">
-              Why Choose PrecisionCPA?
+              Why Choose HRJ Consulting?
             </h2>
             <p className="text-xl text-slate-600 max-w-2xl mx-auto">
               We combine expertise, technology, and personalized service to
@@ -85,7 +85,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               {[
-                'Certified Public Accountants with 20+ years of experience',
+                'Chartered Certified Accountant with 20+ years of experience',
                 'Comprehensive financial planning and analysis',
                 'Cutting-edge accounting software and tools',
                 'Personalized service tailored to your needs',
@@ -109,7 +109,7 @@ export default function Home() {
                 your financial goals.
               </p>
               <a
-                href="mailto:newclient@precisioncpa.com?subject=Consultation Request&body=Hello, I would like to schedule a consultation to discuss my accounting needs."
+                href="mailto:femgee@gmail.com?subject=Consultation Request&body=Hello, I would like to schedule a consultation to discuss my accounting needs."
                 className="bg-white text-emerald-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-emerald-50 transition-colors w-full sm:w-auto flex items-center justify-center space-x-2 shadow-lg"
               >
                 <span>Schedule Consultation</span>
