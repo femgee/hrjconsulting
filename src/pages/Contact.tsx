@@ -189,7 +189,7 @@ export default function Contact() {
                 Public Transit
               </h3>
               <p className="text-slate-600">
-                Steps from Wall Street subway station
+                A walk alone from the bus stop
               </p>
             </div>
             <div className="bg-white p-6 rounded-xl text-center">
