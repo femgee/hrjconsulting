@@ -10,7 +10,7 @@ export default function Home() {
               Expert Accounting Services for Your Success
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-emerald-50 leading-relaxed">
-              Partner with certified professionals who understand your financial
+              Connect with certified professionals who understand your financial
               goals and deliver results that matter.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
