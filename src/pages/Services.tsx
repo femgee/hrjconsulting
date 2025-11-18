@@ -127,9 +127,9 @@ export default function Services() {
               },
               {
                 icon: Shield,
-                title: 'IRS Representation',
+                title: 'HRMC Representation',
                 description:
-                  'Professional representation during audits and disputes. Navigate complex IRS issues with confidence.',
+                  'Professional representation during audits and disputes. Navigate complex HRMC issues with confidence.',
               },
               {
                 icon: Wallet,
@@ -215,7 +215,7 @@ export default function Services() {
               specific situation. Schedule a consultation to discuss your needs.
             </p>
             <a
-              href="mailto:newclient@precisioncpa.com?subject=Free Consultation Request&body=Hello, I'm interested in learning more about your services and would like to schedule a free consultation."
+              href="mailto:Admins@hrjconsulting.eu?subject=Free Consultation Request&body=Hello, I'm interested in learning more about your services and would like to schedule a free consultation."
               className="inline-block bg-emerald-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-emerald-700 transition-colors shadow-lg"
             >
               Schedule Free Consultation
