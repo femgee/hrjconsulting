@@ -154,8 +154,8 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
-                name: 'Sarah Mitchell',
-                role: 'Managing Partner, CPA',
+                name: 'Luke Balogun',
+                role: 'Chief Accountant / CCA ',
                 description:
                   '25 years of experience in corporate accounting and tax strategy. Specializes in business optimization.',
               },
@@ -166,8 +166,8 @@ export default function About() {
                   'Expert in individual tax planning and wealth management. 20 years helping clients maximize returns.',
               },
               {
-                name: 'Jennifer Torres',
-                role: 'Partner, CPA',
+                name: 'Jennifer Jennifa',
+                role: 'Partner, Jnr Accountant',
                 description:
                   'Specialist in small business accounting and startup advisory. Passionate about entrepreneurship.',
               },
