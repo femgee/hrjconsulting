@@ -3,7 +3,7 @@ import { Target, Eye, Heart, Award, Users, Briefcase } from 'lucide-react';
 export default function About() {
   return (
     <div>
-      <section className="bg-gradient-to-br from-slate-800 to-slate-900 text-white py-16 md:py-24">
+      <section className="bg-gradient-to-br from-emerald-600 to-teal-700 text-white py-16 md:py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
