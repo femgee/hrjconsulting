@@ -117,7 +117,7 @@ export default function Contact() {
                     we can help.
                   </p>
                   <a
-                    href="mailto:newclient@precisioncpa.com?subject=Book Consultation&body=Hello, I would like to book a free 30-minute consultation. Please let me know your available times.%0D%0A%0D%0AName:%0D%0APhone:%0D%0APreferred Date/Time:%0D%0AReason for consultation:"
+                    href="mailto:Admins@hrjconsulting?subject=Book Consultation&body=Hello, I would like to book a free 30-minute consultation. Please let me know your available times.%0D%0A%0D%0AName:%0D%0APhone:%0D%0APreferred Date/Time:%0D%0AReason for consultation:"
                     className="block w-full bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-emerald-700 transition-colors text-center"
                   >
                     Book Consultation

@@ -109,7 +109,7 @@ export default function Home() {
                 your financial goals.
               </p>
               <a
-                href="mailto:femgee@gmail.com?subject=Consultation Request&body=Hello, I would like to schedule a consultation to discuss my accounting needs."
+                href="mailto:Admins@hrjconsulting.eu?subject=Consultation Request&body=Hello, I would like to schedule a consultation to discuss my accounting needs."
                 className="bg-white text-emerald-700 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-emerald-50 transition-colors w-full sm:w-auto flex items-center justify-center space-x-2 shadow-lg"
               >
                 <span>Schedule Consultation</span>
