@@ -54,7 +54,7 @@ export default function Contact() {
                       Phone
                     </h3>
                     <p className="text-slate-600">
-                      Main: (+44) 208 478-4344<br />                     
+                      Main: (+44) 208 4784344<br />                     
                     </p>
                   </div>
                 </div>
